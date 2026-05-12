@@ -1,4 +1,4 @@
-# 
+# high-frequency Automation Script for liquidation sniper bot | high-frequency + auto-leverage is the best liquidation sniper bot, featuring high-frequency and auto-leverage. Smart,
 
 
 
